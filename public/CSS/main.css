@@ -1,0 +1,36 @@
+@import "settings.css";
+@import "Header/header.css";
+@import "Header/header__top.css";
+@import "Header/header__center.css";
+@import "Header/header__button.css";
+@import "login.css";
+@import "incredible-offers.css";
+@import "story.css";
+@import "swiper__home_1.css";
+@import "node_modules/swiper/swiper-bundle.min.css";
+@import "under_slider.css";
+@import "wonderfull__offer.css";
+@import "wonderfull-supermarket.css";
+@import "under-supermarket.css";
+@import "buy__category.css";
+@import "under__buy__category.css";
+@import "mahbobtarin.css";
+@import "grid.css";
+@import "digiclub.css";
+@import "porforosh.css";
+@import "banner.css";
+@import "montakhab.css";
+@import "daghtarin.css";
+@import "up__footer.css";
+@import "footer.css";
+
+
+
+/*
+@import "query/xs.css" only screen and (min-width: 340px);
+@import "query/sm.css" only screen and (min-width: 576px);
+@import "query/sm.css" only screen and (min-width: 768px);
+@import "query/sm.css" only screen and (min-width: 992px);
+@import "query/sm.css" only screen and (min-width: 1200px);
+@import "query/sm.css" only screen and (min-width: 1400px); 
+*/
